@@ -2,17 +2,17 @@
 * text=auto
 
 # Custom for Visual Studio
-*.cs text    
-*.sln text        
-*.csproj text     
-*.vbproj text     
-*.fsproj text     
-*.dbproj text     
+*.cs text
+*.sln text
+*.csproj text
+*.vbproj text
+*.fsproj text
+*.dbproj text
 
 # Standard to msysgit
 *.doc binary
 *.DOC binary
-*.docx binary 
+*.docx binary
 *.DOCX binary
 *.dot binary
 *.DOT binary
